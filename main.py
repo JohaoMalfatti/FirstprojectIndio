@@ -12,5 +12,9 @@ import teste_replace
 import teste_arquivos
 import teste_listas
 import teste_dicionario
+import teste_maior_idade
+import teste_notas
+import teste_eq_segundo_grau
+import teste_mini_calc
 class exemplos: 
-    teste_dicionario.meu_dicionario2.meu_dicionario3()
+    teste_mini_calc.teste_mini_calc2.teste_mini_calc3()
