@@ -9,6 +9,6 @@ import teste_for
 import teste_str
 import teste_busca_str
 import teste_replace
+import teste_arquivos
 class exemplos:
-    teste_replace.teste_replace2.teste_replace3()
- 
+    teste_arquivos.teste_arquivos2.teste_arquivos3()    
