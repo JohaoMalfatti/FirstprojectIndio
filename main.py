@@ -10,5 +10,6 @@ import teste_str
 import teste_busca_str
 import teste_replace
 import teste_arquivos
+import teste_listas
 class exemplos:
-    teste_arquivos.teste_arquivos2.teste_arquivos3()    
+    teste_listas.teste_listas2.teste_litas3()  
