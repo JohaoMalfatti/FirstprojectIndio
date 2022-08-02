@@ -11,5 +11,6 @@ import teste_busca_str
 import teste_replace
 import teste_arquivos
 import teste_listas
-class exemplos:
-    teste_listas.teste_listas2.teste_litas3()  
+import teste_dicionario
+class exemplos: 
+    teste_dicionario.meu_dicionario2.meu_dicionario3()
