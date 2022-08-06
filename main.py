@@ -16,5 +16,10 @@ import teste_maior_idade
 import teste_notas
 import teste_eq_segundo_grau
 import teste_mini_calc
+import testes_lista_comprehension
+import teste_funcao_enumerada
+import teste_map
+import teste_reduce
+import teste_lista_zip
 class exemplos: 
-    teste_mini_calc.teste_mini_calc2.teste_mini_calc3()
+    teste_lista_zip.teste_lista_zip2.teste_lista_zip3()
